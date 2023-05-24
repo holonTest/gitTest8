@@ -1,5 +1,5 @@
 first line
 second line with local change and ui change
 second line with web ui change
-third line with Web ui change, and another change
+third line with Web ui change, after conflict resolved
 4th line
